@@ -53,9 +53,7 @@ Cloning the git PS4EYE
 	echo -e "\n Directory /ps4eye created."
 fi
 
-echo "teste1111"
 lsusb -d 05a9:0580
-echo "teste1111"
 
 #Initianting the ps4eye camera with python
 ls
